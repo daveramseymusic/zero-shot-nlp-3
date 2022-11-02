@@ -14,7 +14,8 @@ pip install zero_shot_nlp_3
 
 ## How to use
 
-Use this to either Ask Questions about a piece of text, or to check
+Use this to either Ask Questions about a piece of text, or to Check the
+Categories in a Text
 
 ``` python
 1+1
