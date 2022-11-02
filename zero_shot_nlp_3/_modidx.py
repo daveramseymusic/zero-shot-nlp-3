@@ -6,5 +6,5 @@ d = { 'settings': { 'branch': 'main',
                 'git_url': 'https://github.com/daveramseymusic/zero-shot-nlp-3',
                 'lib_path': 'zero_shot_nlp_3'},
   'syms': { 'zero_shot_nlp_3.core': {'zero_shot_nlp_3.core.foo': ('core.html#foo', 'zero_shot_nlp_3/core.py')},
-            'zero_shot_nlp_3.zeroshot': { 'zero_shot_nlp_3.zeroshot.analyze_one': ( 'zero_shot_linkedin_test.html#analyze_one',
+            'zero_shot_nlp_3.zeroshot': { 'zero_shot_nlp_3.zeroshot.analyze_one': ( 'nlp_linkedin_examples.html#analyze_one',
                                                                                     'zero_shot_nlp_3/zeroshot.py')}}}
