@@ -3,7 +3,7 @@
 # %% auto 0
 __all__ = ['analyze_one']
 
-# %% ../nbs/01_zero_shot_linkedin_test.ipynb 17
+# %% ../nbs/01_zero_shot_linkedin_test.ipynb 18
 def analyze_one(df:pd.DataFrame, # dataframe with df.input
                 candidate_labels, index ):
     i=index
