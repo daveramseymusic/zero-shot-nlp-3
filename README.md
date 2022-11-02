@@ -14,7 +14,7 @@ pip install zero_shot_nlp_3
 
 ## How to use
 
-Fill me in please! Don’t forget code examples:
+Use this to either Ask Questions about a piece of text, or to check
 
 ``` python
 1+1
