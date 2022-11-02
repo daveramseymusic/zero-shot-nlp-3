@@ -15,4 +15,4 @@ def analyze_one(df:pd.DataFrame, # dataframe with df.input
     print(dfo.sequence[0])
     
     print('Actual Category: '+str(df.category[i]))
-    fig.show()
+    print(fig.show())
